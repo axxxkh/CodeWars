@@ -20,4 +20,6 @@ My solutions for some code wars katas.
 
    https://www.codewars.com/kata/55c6126177c9441a570000cc
 
-   
+   Write a function that takes a string of braces, and determines if the order of the braces is valid. It should return true if the string is valid, and false if it's invalid.
+   https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+
