@@ -4,13 +4,15 @@ My solutions for some code wars katas.
 
 1. Valid Parentheses
    
-`  Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
+   Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
    https://www.codewars.com/kata/52774a314c2333f0a7000688
+
 
 2. ValidBraces
 
     Write a function that takes a string of braces, and determines if the order of the braces is valid. It should return true if the string is valid, and false if it's invalid.
     https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+
 
 3. Weight for weight
 
@@ -19,6 +21,7 @@ My solutions for some code wars katas.
    I am the one who establishes the list so I told him: "Don't worry any more, I will modify the order of the list". It was decided to attribute a "weight" to numbers. The weight of a number will be from now on the sum of its digits.
 
    https://www.codewars.com/kata/55c6126177c9441a570000cc
+
 
 4. Help your granny
 
@@ -31,4 +34,13 @@ My solutions for some code wars katas.
    Your granny wants to visit her friends and to know approximately how many miles she will have to travel. You will make the circuit that permits her to visit her friends. For example here the circuit will be:X0, X1, X2, X3, X4, X0 and you will compute approximately the total distance X0X1 + X1X2 + .. + X4X0.
 
    https://www.codewars.com/kata/5536a85b6ed4ee5a78000035
+
+5. Tank Truck
+   To introduce the problem think to my neighbor who drives a tanker truck. The level indicator is down and he is worried because he does not know if he will be able to make deliveries. We put the truck on a horizontal ground and measured the height of the liquid in the tank.
+
+   Fortunately the tank is a perfect cylinder and the vertical walls on each end are flat. The height of the remaining liquid is h, the diameter of the cylinder base is d, the total volume is vt (h, d, vt are positive or null integers). You can assume that h <= d.
+
+   Could you calculate the remaining volume of the liquid? Your function tankvol(h, d, vt) returns an integer which is the truncated result (e.g floor) of your float calculation.
+
+   https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad
    
