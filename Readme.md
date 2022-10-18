@@ -86,29 +86,26 @@ My solutions for some code wars katas.
    Your job in this kata will be to make a program that checks a string for correct grouping.
    https://www.codewars.com/kata/54b80308488cb6cd31000161
 
-8. Directions Reduction Once upon a time, on a way through the old wild mountainous west,… … a man was given directions
+8. Directions Reduction 
+   Once upon a time, on a way through the old wild mountainous west,… … a man was given directions
    to go from one point to another. The directions were "NORTH", "SOUTH", "WEST", "EAST". Clearly "NORTH" and "SOUTH"
-   are opposite, "WEST" and "EAST" too.
-
-Going to one direction and coming back the opposite direction right away is a needless effort. Since this is the wild
-west, with dreadful weather and not much water, it's important to save yourself some energy, otherwise you might die of
-thirst!
-
-How I crossed a mountainous desert the smart way.
+   are opposite, "WEST" and "EAST" too. Going to one direction and coming back the opposite direction right away is a needless effort. Since this is the wild west, with dreadful weather and not much water, it's important to save yourself some energy, otherwise you might die of thirst! How I crossed a mountainous desert the smart way.
 
 9. Bouncing Ball
-   A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known.
+   A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known. He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66). His mother looks out of a window 1.5 meters from the ground.
 
-He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
+   How many times will the mother see the ball pass in front of her window (including when it's falling and bouncing?
 
-His mother looks out of a window 1.5 meters from the ground.
-
-How many times will the mother see the ball pass in front of her window (including when it's falling and bouncing?
-
-Three conditions must be met for a valid experiment:
-
+   Three conditions must be met for a valid experiment: 
 Float parameter "h" in meters must be greater than 0
 Float parameter "bounce" must be greater than 0 and less than 1
 Float parameter "window" must be less than h.
 If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
-https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+
+   https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+10. Snail sort 
+
+   Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
+   https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+
+   
