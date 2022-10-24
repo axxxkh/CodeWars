@@ -108,4 +108,6 @@ If all three conditions above are fulfilled, return a positive integer, otherwis
    Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
    https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
 
+11. The aim of the kata is to decompose n! (factorial n) into its prime factors.
+    https://www.codewars.com/kata/5a045fee46d843effa000070
    
