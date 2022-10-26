@@ -108,6 +108,12 @@ If all three conditions above are fulfilled, return a positive integer, otherwis
    Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
    https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
 
-11. The aim of the kata is to decompose n! (factorial n) into its prime factors.
+11. Factorial Decomposition 
+   The aim of the kata is to decompose n! (factorial n) into its prime factors.
     https://www.codewars.com/kata/5a045fee46d843effa000070
    
+12. Battlefield ship validator
+    Write a method that takes a field for well-known board game "Battleship" as an argument and returns true if it has a valid disposition of ships, false otherwise. Argument is guaranteed to be 10*10 two-dimension array. Elements in the array are numbers, 0 if the cell is free and 1 if occupied by ship.
+
+Battleship (also Battleships or Sea Battle) is a guessing game for two players. Each player has a 10x10 grid containing several "ships" and objective is to destroy enemy's forces by targetting individual cells on his field. The ship occupies one or more cells in the grid. Size and number of ships may differ from version to version. In this kata we will use Soviet/Russian version of the game.
+https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
