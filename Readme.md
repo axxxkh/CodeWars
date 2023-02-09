@@ -117,3 +117,7 @@ If all three conditions above are fulfilled, return a positive integer, otherwis
 
 Battleship (also Battleships or Sea Battle) is a guessing game for two players. Each player has a 10x10 grid containing several "ships" and objective is to destroy enemy's forces by targetting individual cells on his field. The ship occupies one or more cells in the grid. Size and number of ships may differ from version to version. In this kata we will use Soviet/Russian version of the game.
 https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
+
+13. Sum Strings
+    Given the string representations of two integers, return the string representation of the sum of those integers.
+    https://www.codewars.com/kata/5324945e2ece5e1f32000370
